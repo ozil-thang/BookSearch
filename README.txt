@@ -6,7 +6,7 @@
     Run elasticsearch
 
 2. Setup Project
-  
+  git clone https://github.com/ozil-thang/BookSearch.git
   cd BookSearch
   conda create --name book_search_env
   conda activate book_search_env
