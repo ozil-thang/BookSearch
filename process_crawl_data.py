@@ -19,7 +19,7 @@ def add_date(x):
 
 
 # Book
-n = 100  # Number of book to index    
+n = 1000  # Number of book to index    
 
 b_df = pd.read_csv('crawldata/book.csv')
 b_df = b_df.dropna()
